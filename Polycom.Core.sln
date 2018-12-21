@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polycom.Core", "Polycom.Core\Polycom.Core.csproj", "{C9F5ABB4-81FF-4054-A668-AD80A8516FBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9F5ABB4-81FF-4054-A668-AD80A8516FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9F5ABB4-81FF-4054-A668-AD80A8516FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9F5ABB4-81FF-4054-A668-AD80A8516FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9F5ABB4-81FF-4054-A668-AD80A8516FBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC48E6DF-39A4-42CE-92E1-19544F8EBB0B}
+	EndGlobalSection
+EndGlobal
