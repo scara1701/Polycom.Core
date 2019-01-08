@@ -16,7 +16,7 @@ namespace Polycom.Core
         }
     }
 
-    //Handler for telnet repsonse
+    //Handler for telnet response
     public delegate void ResponseHandler(object sender, ResponseEventArgs e);
 
     public static class Communicator
